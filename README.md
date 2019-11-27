@@ -6,4 +6,5 @@ Java example projects (server with using Sockets and apps with using SQLite).
   <li><b>Threads and sync/async</b> (Runnable, Callable)</li>
   <li><b>Servers in Java</b> (Sockets)</li>
   <li><b>SQLite using Java</b> (jdbc)</li>  
+  <li><b>File zipping/unzipping</b> </li> 
 </ul>
